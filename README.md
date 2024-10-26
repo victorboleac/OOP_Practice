@@ -1,8 +1,8 @@
-## OOP_Practice
+# OOP_Practice
 
-Task One:
+### Task One:
 
-# Basics of Classes and Objects
+## Basics of Classes and Objects
 
 Goal: Create a basic Person class to understand objects and classes.
 
